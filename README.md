@@ -4,9 +4,8 @@ Throughout the semester, this repository will slowly become a metaphorical treas
 
 #### Instructor Contact Information
 
-patrick.huston@students.olin.edu
+**Patrick Huston**
+_email_ - patrick.huston@students.olin.edu
 
-hieu.nguyen@students.olin.edu
-
-
-
+**Hieu Nugyen**
+_email_ - hieu.nguyen@students.olin.edu

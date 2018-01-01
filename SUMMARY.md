@@ -3,9 +3,9 @@
 ## Overview
 
 * [Welcome to FSE!](README.md)
-* [test](test.md)
 
-## Important Documents
+## Daily Docs
 
-* [Defining Methods](methods.md)
+* [Day 0 - Welcome to FSE](daily-docs/day-0-welcome-to-fse.md)
+* Day 1 - Unit Testing
 
