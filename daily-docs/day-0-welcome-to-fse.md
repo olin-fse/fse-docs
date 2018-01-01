@@ -1,4 +1,4 @@
-## DAY 0
+## Day 0
 
 ### Welcome to FSE
 
