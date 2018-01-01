@@ -1,3 +1,12 @@
-# My Awesome API
+# FSE Spring 2018
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Throughout the semester, this repository will slowly become a metaphorical treasure chest of useful documentation - lecture notes, course documents, tutorials, and helpful links. 
+
+#### Instructor Contact Information
+
+patrick.huston@students.olin.edu
+
+hieu.nguyen@students.olin.edu
+
+
+
