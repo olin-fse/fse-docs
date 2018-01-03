@@ -10,6 +10,7 @@ We'll answer such questions as - 'who are you? Who are we? What is FSE?', finali
 
 By the end of class today, we hope to achieve the following goals:
 
+* Go over all course logistics
 * Finalize project ideas
 * Communicate what it will take for you to create your project blueprint
 * Start working on project blueprints
