@@ -1,16 +1,14 @@
-## Day 0
+## Week 0
 
 ### Welcome to FSE
 
 ##### Abstract
 
-We'll answer such questions as - 'who are you? Who are we? What is FSE?', finalize project ideas, and start working through the process of creating project blueprints.
+Welcome to the first week of FSE! This week will be all about getting the ball rolling for projects. We'll answer such questions as - 'who are you? Who are we? What is FSE?', finalize project ideas, and start working through the process of creating project blueprints.
 
 ##### Goals
 
-By the end of class today, we hope to achieve the following goals:
-
-* Go over all course logistics
+* Go over all course logistics and get on the same page
 * Finalize project ideas
 * Communicate what it will take for you to create your project blueprint
 * Start working on project blueprints
