@@ -5,8 +5,8 @@ Throughout the semester, this repository will slowly become a metaphorical treas
 #### Instructor Contact Information
 
 **Patrick Huston**  
-_email_ - patrick.huston@students.olin.edu
+GitHub [@phuston](https://github.com/phuston) \| patrick.huston@students.olin.edu
 
 **Hieu Nguyen**  
-_email_ - hieu.nguyen@students.olin.edu
+GitHub [@thecardkid](https://github.com/thecardkid) \| hieu.nguyen@students.olin.edu
 
