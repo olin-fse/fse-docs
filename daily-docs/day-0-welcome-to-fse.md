@@ -2,9 +2,13 @@
 
 ### Welcome to FSE
 
-##### Abstract
-
 Welcome to the first week of FSE! This week will be all about getting the ball rolling for projects. We'll answer such questions as - 'who are you? Who are we? What is FSE?', finalize project ideas, and start working through the process of creating project blueprints.
+
+By the end of the week, 
+
+##### Useful Links
+
+Presentation
 
 ##### Goals
 
