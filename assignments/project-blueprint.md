@@ -58,6 +58,7 @@ As a recommendation, consider thinking about the following questions when creati
     - What are the tradeoffs you're aware of between various options? 
     - What level of familiarity do you have/what would estimate the learning curve to be?
 
+For a real-life example of evaluating technology options, take a look at this [blog post](http://eng.uber.com/go-geofence/) from Uber on February 24, 2016. Specifically, take a look at the section called _Ready, Set, Go!_ in which the author describes the key decision points in writing this new service in Go over Node.js. 
 
 #### Project Timeline
 
