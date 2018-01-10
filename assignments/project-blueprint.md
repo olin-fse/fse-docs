@@ -6,11 +6,13 @@ Welcome to the FSE Project Blueprint Guidelines. This document should walk you t
 
 **Remember! This document is as much for you as it is for us.**
 
-After you've read through these guidelines, take a look at our example blueprint for Shawty, the next big name in URL shortening services. //TODO link
+After you've read through these guidelines, take a look at our example blueprint for Shawty, the next big name in URL shortening services (coming shortly).
 
 ##### Submission
 
-To submit, please use this link. //TODO
+Please create your blueprint as a pdf or markdown file in your project repository. To submit, use [this link](https://goo.gl/forms/pOrAnyf69azAs1NF2).
+
+_One submission per team._
 
 ### Blueprint Guidelines
 
