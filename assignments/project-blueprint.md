@@ -6,7 +6,7 @@ Welcome to the FSE Project Blueprint Guidelines. This document should walk you t
 
 **Remember! This document is as much for you as it is for us.**
 
-After you've read through these guidelines, take a look at our example blueprint for Shawty, the next big name in URL shortening services (coming shortly).
+After you've read through these guidelines, take a look at our [example blueprint](https://drive.google.com/open?id=1PjJR-U7jhpOoL7t2SwpDcnfYNZ6zstw0pcCaE7JGdOs) for Shawty, the next big name in URL shortening services.
 
 ##### Submission
 
