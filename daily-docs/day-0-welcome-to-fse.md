@@ -12,25 +12,25 @@ This week is different. We expect you to spend most of your time working on your
 
 ##### Project Blueprint
 
-Complete the Project Blueprint as described in the specification document. Contact us if you have any questions, feel free to send us drafts and we'll give you some quick feedback.
+Complete the [Project Blueprint](/assignments/project-blueprint.md) as described in the specification document. Contact us if you have any questions, feel free to send us drafts and we'll give you some quick feedback.
 
-_Due date: \# TODO_
+_Due Date: **Next Thursday, Feb. 1 before class**_
 
 ##### Get Shawty Set Up and Running
 
 [Shawty](https://github.com/olin-fse/shawty), the world's next great URL shortener, will serve as our example project throughout the semester. In class, we'll run through demos and examples in Shawty. In class, we'll also set up
 
-_Due date: \# TODO_
+_Due date: **Monday, Jan. 29 before class**_
 
 ##### Team and Repository GitHub Setup
 
-As we talked about in class today, we're going to attempt the Olin-FSE GitHub organization to organize all of our work. Each team will create a team within the organization, and their repository will be hosted within this as well. Don't worry, you'll be able to transfer ownership outside of Olin-FSE at the end of the semester. 
+As we talked about in class today, we're going to attempt the [Olin-FSE GitHub organization](https://github.com/olin-fse) to organize all of our work. Each team will create a team within the organization, and their repository will be hosted within this as well. Don't worry, you'll be able to transfer ownership outside of Olin-FSE at the end of the semester.
 
-_Due date: \# TODO_
+_Due date: **Monday, Jan. 29 before class**_
 
 #### Feedback
 
-Fill out this form to help guide what we do on Thursday \# TODO What should this form be?
+Fill out [this form](https://goo.gl/forms/Q4EnHTHEdHM4S7gC2) to help guide what we do on Thursday
 
 #### Useful Links
 
