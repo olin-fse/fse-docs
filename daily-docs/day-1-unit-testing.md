@@ -6,7 +6,7 @@ The goals of this week are to:
 
 * Get you familiar with testing frameworks
 
-* Discuss the philosophy behind testing: why we test, and what to test, best practices, and risks
+* Start a discussion about the philosophy behind testing: why we test, to test, best practices, and risks
 
 * Be aware that testing is a contentious topic, and sometimes there isn’t a correct answer.
 
@@ -26,7 +26,7 @@ We expect you to:
 
 #### Feedback
 
-Fill out [this form](https://goo.gl/forms/Q4EnHTHEdHM4S7gC2) to help guide what we do on Thursday
+Fill out [this form](https://goo.gl/forms/Q4EnHTHEdHM4S7gC2) to help guide what we do on Wednesday/Thursday
 
 #### Useful Links
 
@@ -35,6 +35,4 @@ Fill out [this form](https://goo.gl/forms/Q4EnHTHEdHM4S7gC2) to help guide what 
 [Olin-FSE Github Organization](https://github.com/olin-fse/shawty)
 
 [Project Shawty Repository](https://github.com/olin-fse)
-
-
 
