@@ -28,6 +28,12 @@ As we talked about in class today, we're going to attempt the [Olin-FSE GitHub o
 
 _Due date: **Monday, Jan. 29 before class**_
 
+**Hello World**
+
+Create a basic "Hello World" setup using the technologies you've settled on - the point of this is to get a frontend, backend, and database all connected so you can start implementing features and tests next week. 
+
+_Due date: **Wednesday, Jan 31 before class**_
+
 #### Feedback
 
 Fill out [this form](https://goo.gl/forms/Q4EnHTHEdHM4S7gC2) to help guide what we do on Thursday
