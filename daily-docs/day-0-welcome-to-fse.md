@@ -14,7 +14,7 @@ This week is different. We expect you to spend most of your time working on your
 
 Complete the [Project Blueprint](/assignments/project-blueprint.md) as described in the specification document. Contact us if you have any questions, feel free to send us drafts and we'll give you some quick feedback.
 
-_Due Date: **Next Thursday, Feb. 1 before class**_
+_Due Date: **Thursday, Feb. 1 before class**_
 
 ##### Get Shawty Set Up and Running
 
@@ -30,13 +30,13 @@ _Due date: **Monday, Jan. 29 before class**_
 
 **Hello World**
 
-Create a basic "Hello World" setup using the technologies you've settled on - the point of this is to get a frontend, backend, and database all connected so you can start implementing features and tests next week. 
+Create a basic "Hello World" setup using the technologies you've settled on - the point of this is to get a frontend, backend, and database all connected so you can start implementing features and tests next week.
 
 _Due date: **Wednesday, Jan 31 before class**_
 
 #### Feedback
 
-Fill out [this form](https://goo.gl/forms/Q4EnHTHEdHM4S7gC2) to help guide what we do on Thursday
+Fill out [this form](https://goo.gl/forms/Q4EnHTHEdHM4S7gC2) to give us feedback for this class.
 
 #### Useful Links
 
