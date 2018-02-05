@@ -24,9 +24,9 @@ TBD
 
 We recognize that a lot of you have taken on learning new frameworks and technologies for your projects - and that's great! As a result, it's unlikely that you have a lot of real significant functionality complete in your applications just yet.
 
-So - while we understand that many of the tests you're writing now might feel forced, we'd like you to start getting experience and get your hands dirty. When you start developing non-trivial functionality, these skills and resources should be second nature, and you won't have to figure out how to get tests to run while also thinking about how the tests should be designed themselves. 
+So - while we understand that many of the tests you're writing now might feel forced, we'd like you to start getting experience and get your hands dirty. When you start developing non-trivial functionality, these skills and resources should be second nature, and you won't have to figure out how to get tests to run while also thinking about how the tests should be designed themselves.
 
-_For next week, we'd like you to have two integration tests written_. Some first candidates for points of integration that you could consider are \(1\) Between your backend and database and \(2\) Network calls to your API from the frontend. 
+_For next week, we'd like you to have two integration tests written_. Some first candidates for points of integration that you could consider are \(1\) Between your backend and database and \(2\) Network calls to your API from the frontend.
 
 #### Feedback
 
@@ -43,6 +43,8 @@ Fill out [this form](https://goo.gl/forms/eTzdgga9UpOhwWjm1) to give us feedback
 **Good Articles/Posts**
 
 _About Testing_
+
+[https://www.thoughtworks.com/insights/blog/guidelines-structuring-automated-tests ](https://www.thoughtworks.com/insights/blog/guidelines-structuring-automated-tests)
 
 [https://martinfowler.com/bliki/SelfTestingCode.html](https://martinfowler.com/bliki/SelfTestingCode.html)
 
@@ -61,6 +63,4 @@ _On Databases/NoSQL vs SQL_
 [https://martinfowler.com/bliki/OrmHate.html](https://martinfowler.com/bliki/OrmHate.html)
 
 [https://martinfowler.com/books/nosql.html](https://martinfowler.com/books/nosql.html)
-
-
 
