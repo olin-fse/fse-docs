@@ -16,13 +16,15 @@ After that, we'll do a live demo with a basic todo-api. You can find the source 
 
 ##### Thursday, February 1
 
-Today, we'll be doing a short lecture on relational database schema design. While it might not always feel like a straightforward process, there are a set of industry-standard practices used to approach this problem. 
+Today, we'll be doing a short lecture on relational database schema design. While it might not always feel like a straightforward process, there are a set of industry-standard practices used to approach this problem.
+
+You can find the presentation [here](https://drive.google.com/open?id=1VcSSjzEcmM7EzV-mE9XuA2jGIB8DHOuTofSt_MWw4Bk)!
 
 Some topics include:
 
 * The concept of an [ERD](https://www.lucidchart.com/pages/er-diagrams) \(Entity Relationship Diagram\)
 * How to convert an ERD into a relational schema
-* What normalization is, why it's important, and how you should apply normalization to your schema
+* [What](https://en.wikipedia.org/wiki/Database_normalization) normalization is, [why](https://en.wikipedia.org/wiki/ACID) it's important, and how you should [apply normalization](https://support.microsoft.com/en-us/help/283878/description-of-the-database-normalization-basics) to your schema
 
 #### Deliverables \(Due Monday, February 12\)
 
@@ -42,7 +44,9 @@ Fill out [this form](https://goo.gl/forms/eTzdgga9UpOhwWjm1) to give us feedback
 
 **Class Resources**
 
-[Presentation](https://drive.google.com/open?id=1NH2rWVJ6eifhT4tXVEVOq2zCzlOuqekIg9_KfLCG5lw)
+[Presentation](https://drive.google.com/open?id=1NH2rWVJ6eifhT4tXVEVOq2zCzlOuqekIg9_KfLCG5lw) on integration testing
+
+[Presentation](https://drive.google.com/open?id=1VcSSjzEcmM7EzV-mE9XuA2jGIB8DHOuTofSt_MWw4Bk) on relational database schema design
 
 [Integration Testing Live Demo Repository](https://github.com/olin-fse/integration-demo)
 
