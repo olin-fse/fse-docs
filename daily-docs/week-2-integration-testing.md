@@ -16,7 +16,13 @@ After that, we'll do a live demo with a basic todo-api. You can find the source 
 
 ##### Thursday, February 1
 
-TBD
+Today, we'll be doing a short lecture on relational database schema design. While it might not always feel like a straightforward process, there are a set of industry-standard practices used to approach this problem. 
+
+Some topics include:
+
+* The concept of an [ERD](https://www.lucidchart.com/pages/er-diagrams) \(Entity Relationship Diagram\)
+* How to convert an ERD into a relational schema
+* What normalization is, why it's important, and how you should apply normalization to your schema
 
 #### Deliverables \(Due Monday, February 12\)
 
