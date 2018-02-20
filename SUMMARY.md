@@ -13,4 +13,5 @@
 ## Assignments
 
 * [Project Blueprint](assignments/project-blueprint.md)
+* [Milestone 1 - Feb 22, 2018](assignments/milestone-1-feb-22-2018.md)
 
