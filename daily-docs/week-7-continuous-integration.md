@@ -11,20 +11,20 @@ It's happening! This week, we'll be taking some of our first steps outside of te
 Lecture on CI - find the presentation [here](https://docs.google.com/presentation/d/1dwMWe_m171rqfwgVrdSVzoIUGGJeCtCi7RHvm0Tik90/edit?usp=sharing). 
 
 ##### Helpful Links
-https://travis-ci.org/ 
-https://docs.travis-ci.com/user/database-setup/
-https://docs.travis-ci.com/user/languages/go/
-https://docs.travis-ci.com/user/languages/javascript-with-nodejs/
+- https://travis-ci.org/ 
+- https://docs.travis-ci.com/user/database-setup/
+- https://docs.travis-ci.com/user/languages/go/
+- https://docs.travis-ci.com/user/languages/javascript-with-nodejs/
 
 
 ##### Recommended Readings
-[Why is CI Important?](https://blog.codeship.com/continuous-integration-important/)
-[A gentle introduction to CI](https://www.thoughtworks.com/continuous-integration)
-[Martin Fowler on CI](https://www.martinfowler.com/articles/continuousIntegration.html)
-[Git Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
-[CI vs. Continuous Delivery vs. Continuous Deployment](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment)
-[Martin Fowler on CD](https://martinfowler.com/books/continuousDelivery.html)
-[A review of the many CI tools available](https://www.digitalocean.com/community/tutorials/ci-cd-tools-comparison-jenkins-gitlab-ci-buildbot-drone-and-concourse)
+- [Why is CI Important?](https://blog.codeship.com/continuous-integration-important/)
+- [A gentle introduction to CI](https://www.thoughtworks.com/continuous-integration)
+- [Martin Fowler on CI](https://www.martinfowler.com/articles/continuousIntegration.html)
+- [Git Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
+- [CI vs. Continuous Delivery vs. Continuous Deployment](https://www.digitalocean.com/community/tutorials/an-introduction-to-continuous-integration-delivery-and-deployment)
+- [Martin Fowler on CD](https://martinfowler.com/books/continuousDelivery.html)
+- [A review of the many CI tools available](https://www.digitalocean.com/community/tutorials/ci-cd-tools-comparison-jenkins-gitlab-ci-buildbot-drone-and-concourse)
 
 ### Deliverables (Due Monday, March 12)
 
