@@ -9,6 +9,7 @@
 * [Week 0 - Welcome to FSE](daily-docs/day-0-welcome-to-fse.md)
 * [Week 1 - Unit Testing](daily-docs/day-1-unit-testing.md)
 * [Week 2 - Integration Testing](daily-docs/week-2-integration-testing.md)
+* [Week 7 - Continuous Integration ](daily-docs/week-7-continuous-integration.md)
 
 ## Assignments
 
