@@ -18,6 +18,7 @@ https://docs.travis-ci.com/user/languages/javascript-with-nodejs/
 
 
 ##### Recommended Readings
+[Why is CI Important?](https://blog.codeship.com/continuous-integration-important/)
 [A gentle introduction to CI](https://www.thoughtworks.com/continuous-integration)
 [Martin Fowler on CI](https://www.martinfowler.com/articles/continuousIntegration.html)
 [Git Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow)
