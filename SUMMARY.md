@@ -15,4 +15,5 @@
 
 * [Project Blueprint](assignments/project-blueprint.md)
 * [Milestone 1](assignments/milestone-1-feb-22-2018.md)
+* [Milestone 2](assignments/milestone-2.md)
 
