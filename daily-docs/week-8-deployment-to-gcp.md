@@ -13,8 +13,8 @@ And we're off. Today we'll be deploying the web apps that you've been working so
    * MySQL users: check out Google Cloud MySQL.
    * Mongo users: check out MongoLab.
      1. Once you have signed up for the service, update your database config for `PROD` with the relevant database URI, username, password, etc.
-     2. If you are using Postgres or MySQL: ssh into your instance, and run your `schema.sql` - this will set up your production instance with the database, user, and tables you'll need.
-     3. Try connecting with the `PROD` profile locally and see that you successfully connect to your new database instance.
+     2. If you are using Postgres or MySQL: execute your `schema.sql` on your instance via the CLI e.g. `mysql -h [IP_ADDRESS] -u root -p < schema.sql` - this will set up your production instance with the database, user, and tables you'll need.
+     3. Run your app locally with the `PROD` profile and see that you successfully connect to your new database instance.
 
 2. Sign up for a Google Cloud Platform account at [console.cloud.google.com](https://console.cloud.google.com).
 
