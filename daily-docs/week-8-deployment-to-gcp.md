@@ -23,7 +23,10 @@ And we're off. Today we'll be deploying the web apps that you've been working so
 5. Set up the GCP CLI `gcloud` on your machine.
 6. SSH into your instance using `gcloud`.
 7. Check that Git is installed. If not, [install Git](https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-14-04).
-8. Check that the languages to run your app are available \(npm, node, go, etc.\). If not, install them.
+8. Install languages required to run your app:
+  - [node and npm](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-16-04) (Do the PPA one)
+  - [go](https://medium.com/@patdhlk/how-to-install-go-1-8-on-ubuntu-16-04-710967aa53c9)
+  - elm - you're on your own
 9. Set up and run your app with the `PROD` profile.
 10. Discover the external IP address of your server, and access your app at \[IP\_ADDRESS\]:\[PORT\].
 
