@@ -7,7 +7,8 @@ And we're off. Today we'll be deploying the web apps that you've been working so
 ### Prerequisites
 
 * [ ] [Milestone 2](https://olin-fse.gitbooks.io/fse-docs/content/assignments/milestone-2.html)
-* [ ] Signed up for GCP account at [console.cloud.google.com](https://console.cloud.google.com).
+* [ ] Rename all branches named `developing` to `develop`.
+* [ ] Sign up for GCP account at [console.cloud.google.com](https://console.cloud.google.com).
 * [ ] Set up the GCP CLI `gcloud` on your machine: [Mac](https://encrypted.google.com/search?hl=en&ei=tEalWrrYAs2k_QaF2L3QCg&q=gcloud+set+up+mac&oq=gcloud+set+up+mac&gs_l=psy-ab.3...4382.4716.0.6290.4.4.0.0.0.0.155.367.1j2.3.0....0...1c.1.64.psy-ab..1.2.212...0j33i22i29i30k1.0.IKICUNuvZzY), [Ubuntu](https://encrypted.google.com/search?hl=en&ei=u0alWoSqD46t_Qa5yZD4CA&q=gcloud+set+up+ubuntu&oq=gcloud+set+up+ubuntu&gs_l=psy-ab.3..0i8i13i30k1.21280.21819.0.21964.6.5.0.0.0.0.139.253.0j2.2.0....0...1c.1.64.psy-ab..4.2.252....0.kAE9WZTQqRI).
 * [ ] Configure the `PROD` profile for your application, which will be active when you run your app live. Steps below:
 
