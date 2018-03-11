@@ -1,6 +1,6 @@
 # Milestone 2 - Monday, Mar. 12
 
-[ ] A `develop` branch that you push to from now on.
+* [ ] A `develop` branch that you push to from now on.
 * [ ] `master` should be completely clean on Monday - all code should be moved to `develop`.                                        
 * [ ] A command that will run all backend tests
 * [ ] A command that will run all frontend tests
