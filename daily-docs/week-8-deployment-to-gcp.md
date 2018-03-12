@@ -7,7 +7,6 @@ And we're off. Today we'll be deploying the web apps that you've been working so
 ### Prerequisites
 
 * [ ] [Milestone 2](https://olin-fse.gitbooks.io/fse-docs/content/assignments/milestone-2.html)
-* [ ] Rename all branches named `developing` to `develop`.
 * [ ] Sign up for GCP account at [console.cloud.google.com](https://console.cloud.google.com).
 * [ ] Set up the GCP CLI `gcloud` on your machine: [Mac](https://encrypted.google.com/search?hl=en&ei=tEalWrrYAs2k_QaF2L3QCg&q=gcloud+set+up+mac&oq=gcloud+set+up+mac&gs_l=psy-ab.3...4382.4716.0.6290.4.4.0.0.0.0.155.367.1j2.3.0....0...1c.1.64.psy-ab..1.2.212...0j33i22i29i30k1.0.IKICUNuvZzY), [Ubuntu](https://encrypted.google.com/search?hl=en&ei=u0alWoSqD46t_Qa5yZD4CA&q=gcloud+set+up+ubuntu&oq=gcloud+set+up+ubuntu&gs_l=psy-ab.3..0i8i13i30k1.21280.21819.0.21964.6.5.0.0.0.0.139.253.0j2.2.0....0...1c.1.64.psy-ab..4.2.252....0.kAE9WZTQqRI).
 * [ ] Configure the `PROD` profile for your application, which will be active when you run your app live. Steps below:
@@ -42,7 +41,7 @@ And we're off. Today we'll be deploying the web apps that you've been working so
 It's no good asking people to go to 51.42.73.33:3000 to access your app - most won't remember that address. So get a domain name to go with your app:
 
 1. Buy a domain name on Amazon/Google \(if you really like your app\), or get one for free at [freenom.com](https://freenom.com).
-2. Configure the Domain Name Server \(DNS\) for your domain name. You will need to set up the Name Server \(NS\), as well as add an A-record to your domain.
+2. Configure the Domain Name System \(DNS\) for your domain name. You will need to set up the Name Server \(NS\) if it not set up, as well as add an A-record to your domain.
 3. Wait a few seconds for servers to update with the new information. Access your app using your brand new domain name!
 
 ### Nginx
