@@ -11,6 +11,7 @@
 * [Week 2 - Integration Testing](daily-docs/week-2-integration-testing.md)
 * [Week 7 - Continuous Integration ](daily-docs/week-7-continuous-integration.md)
 * [Week 8 - Deployment to GCP](daily-docs/week-8-deployment-to-gcp.md)
+* [Week 9 - Docker](daily-docs/week-9-docker.md)
 
 ## Assignments
 
