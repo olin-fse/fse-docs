@@ -1,20 +1,20 @@
-## Week 2
+# Week 2 - Integration Testing
 
-### Integration Testing
+## Integration Testing
 
 _"This ain't yo mama's unit testing!" _ - Patrick Huston, 2018
 
 Last week, we introduced the philosophies behind testing, and hit the ground running with the most ubiquitous type of tests, unit tests. This week, we continue our journey into the world of testing with the concept of integration tests.
 
-#### Schedule
+### Schedule
 
-##### Monday, January 29
+#### Monday, January 29
 
 We'll start with a [presentation](https://drive.google.com/open?id=1NH2rWVJ6eifhT4tXVEVOq2zCzlOuqekIg9_KfLCG5lw) introducing the concept of integration testing.
 
 After that, we'll do a live demo with a basic todo-api. You can find the source code [here](https://github.com/olin-fse/integration-demo).
 
-##### Thursday, February 1
+#### Thursday, February 1
 
 Today, we'll be doing a short lecture on relational database schema design. While it might not always feel like a straightforward process, there are a set of industry-standard practices used to approach this problem.
 
@@ -26,7 +26,7 @@ Some topics include:
 * How to convert an ERD into a relational schema
 * [What](https://en.wikipedia.org/wiki/Database_normalization) normalization is, [why](https://en.wikipedia.org/wiki/ACID) it's important, and how you should [apply normalization](https://support.microsoft.com/en-us/help/283878/description-of-the-database-normalization-basics) to your schema
 
-#### Deliverables \(Due Monday, February 12\)
+### Deliverables \(Due Monday, February 12\)
 
 **Coding Work**
 
@@ -36,11 +36,11 @@ So - while we understand that many of the tests you're writing now might feel fo
 
 _For next week, we'd like you to have two integration tests written_. Some first candidates for points of integration that you could consider are \(1\) Between your backend and database and \(2\) Network calls to your API from the frontend.
 
-#### Feedback
+### Feedback
 
 Fill out [this form](https://goo.gl/forms/eTzdgga9UpOhwWjm1) to give us feedback for this class.
 
-#### Useful Links and Resources
+### Useful Links and Resources
 
 **Class Resources**
 

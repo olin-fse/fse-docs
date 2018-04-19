@@ -1,4 +1,4 @@
-# Milestone 1 - Monday, Feb. 26
+# Milestone 1
 
 In hopes of getting all teams synced up again, we are going to list here requirements for your web app that we expect you to accomplish in full by **Monday, February 26th**.
 
@@ -9,6 +9,4 @@ In hopes of getting all teams synced up again, we are going to list here require
 * [ ] Thorough documentation of schema at this point, along with relevant SQL/Postgres scripts to reproduce the database. Mongo is exempt. All documentation should be stored in your README.
 * [ ] Documentation to set up and run your project: how to get dependencies, are there extra commands that need to be run, are there necessary environment variables? All documentation should be stored in your README.
 * [ ] Complete whatever feature of your MVP that you're currently working on, so that you have at least one end-to-end feature ready to be tested.
-
-
 

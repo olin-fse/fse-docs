@@ -1,4 +1,4 @@
-# Introduction
+# Welcome to FSE!
 
 Throughout the semester, this repository will slowly become a metaphorical treasure chest of useful documentation - lecture notes, course documents, tutorials, and helpful links.
 
